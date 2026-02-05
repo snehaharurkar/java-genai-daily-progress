@@ -12,3 +12,19 @@ Java Full Stack with Generative AI internship.
 - Stay consistent with daily updates
 - Build strong fundamentals in Java, Full Stack, and GenAI
 - Maintain visible proof of learning and progress
+
+# Day 2 – Loops
+
+Problem:
+Print first N natural numbers
+
+Concepts used:
+- for loop
+- package structure
+
+
+
+
+
+
+
