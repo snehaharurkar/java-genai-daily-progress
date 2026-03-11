@@ -1,0 +1,2 @@
+Hello, this is my Day 16 of learning Java!
+Learning File I/O is interesting.
